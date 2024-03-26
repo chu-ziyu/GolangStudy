@@ -3,7 +3,7 @@ package lib2
 import "fmt"
 
 // 当前lib2包提供的API
-func lib2Test() {
+func Lib2Test() {
 	fmt.Println("lib2Test()...")
 }
 
